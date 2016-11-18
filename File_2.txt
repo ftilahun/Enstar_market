@@ -1,0 +1,7 @@
+Name,Date,Score
+Jane Jackson,02/03/2004,77
+Jane Jackson,February 3 2004,77
+Jill Johns,03/04/2005,66
+Jill Johns,03/04/2005,66
+Joe Jones,01/02/2003,88
+joe jones,01/02/2003,88
